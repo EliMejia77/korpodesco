@@ -120,7 +120,7 @@ const Login = () => (
                     const rol=document.querySelector('#rol').value;
                     if(values['email']!=='' &&values['password']!=='' && rol!=='---Selecciona tu rol---'){
                       event.preventDefault();
-                      api.post("http://localhost:8083/", {
+                      api.post("http://34.66.222.19:8083/", {
                         correo: values.email,
                         contrasena: values.password,
                         rol: rol
