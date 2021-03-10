@@ -18,7 +18,7 @@
 
 > Este entorno está en el puerto **8083**
 
-## Entorno de desarrollo del backend
+## Entorno de desarrollo del FRONTEND
 
 - Ubicarse en la carpeta FRONTEND
 
